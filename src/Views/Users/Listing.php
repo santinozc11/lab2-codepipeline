@@ -21,7 +21,7 @@ class Listing
            -webkit-background-clip: text; 
            -webkit-text-fill-color: transparent;
            background-clip: text;">
-                        The Newcomersv3 
+                        The Newcomersv4 
                     </h1>
                     <?php
                     /** @var \Entity\User $user */
