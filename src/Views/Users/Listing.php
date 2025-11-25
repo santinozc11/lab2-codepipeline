@@ -14,7 +14,7 @@ class Listing
     public function __invoke(): void
     {
         ?>
-        <div class="col-sm-8 col-sm-offset-2">
+        <div class="col-sm-8 col-sm-offset-2 user-listing">
             <div class="panel panel-info">
                 <div class="panel-body">
                     <h1 style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); 

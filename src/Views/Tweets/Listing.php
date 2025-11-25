@@ -22,6 +22,7 @@ class Listing
         $userId = htmlspecialchars($this->user->id);
         $userName = htmlspecialchars($this->user->name);
         ?>
+        <div class="row tweets-layout">
         <div class="col-xs-6 col-sm-5 col-md-4 col-lg-3">
             <div class="panel panel-default">
                 <div class="panel-body">
@@ -77,6 +78,7 @@ class Listing
                 ?>
                 </div>
             </div>
+        </div>
         </div>
         <?php
     }
