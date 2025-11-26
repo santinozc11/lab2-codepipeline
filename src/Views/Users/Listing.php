@@ -21,7 +21,7 @@ class Listing
            -webkit-background-clip: text; 
            -webkit-text-fill-color: transparent;
            background-clip: text;">
-                        The Newcomersv5 
+                        The Newcomers - Laboratorio 3 - Terraform
                     </h1>
                     <?php
                     /** @var \Entity\User $user */
